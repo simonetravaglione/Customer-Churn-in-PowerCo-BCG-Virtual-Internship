@@ -13,7 +13,7 @@ Driven by power-liberalization of the energy market in Europe Problem is largest
 ### 3. Hypothesis
 One of the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it is possible to predict customers likely to churn using a predictive model. The client also wants to try a discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective.
 
-### 4.Results
+### 4. Results
 #### 4.1 Model Development
 I  built a Logistic Regression, Random Forest,  Gradient Boosting and XGBC Classifier model.
 #### 4.2 Take aways
